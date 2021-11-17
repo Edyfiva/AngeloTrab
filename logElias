@@ -1,0 +1,39 @@
+   1 d:
+   2 cd dados/desktop/ads/engenharia
+   3 cd TIG-etseT
+   4 code .
+   5 git init
+   6 git clone https://github.com/Edyfiva/AngeloTrab.git
+   7 npm i -g gitmoji-cli
+   8 gitmoji -c
+   9 gitmoji -c
+  10 git flow init
+  11 cd engenharia
+  12 cd ..
+  13 md angeloAvaliacao
+  14 cd angeloAvaliacao
+  15 git clone https://github.com/Edyfiva/AngeloTrab.git
+  16 code .
+  17 cd egenharia
+  18 cd ..
+  19 md angeloAvalia
+  20 cd angeloAvalia
+  21 code .
+  22 git clone https://github.com/Edyfiva/AngeloTrab.git
+  23 code .
+  24 cd ..
+  25 cd angeloAvalia
+  26 md angeloAvalia
+  27 cd angeloAvalia
+  28 git clone https://github.com/Edyfiva/AngeloTrab.git
+  29 code .
+
+  - -----------
+   1 cd..
+   2 cd angeloAvalia
+   3 cd angeloTrab
+   4 git flow init
+   5 git flow feature start multiplica
+   6 git add .
+   7 gitmoji -c
+   8 git push -u origin feature/multiplica
