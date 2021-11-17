@@ -9,9 +9,10 @@ Id CommandLine
   7 git push origin feature/divisao
   8 git branch
   9 history 
-  10 git add .\LOG_suelen
-  11 gitmoji -c
-  12 git push origin master
-  13 git push origin feature/log_suelen
-  14 git checkout master
-  15 git push origin master
+  10 git checkout master
+  11 git add .\LOG_suelen
+  12 gitmoji -c
+  13 git push origin master
+  14 git push origin feature/log_suelen
+  15 git checkout master
+  16 git push origin master
