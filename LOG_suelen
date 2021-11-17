@@ -1,0 +1,18 @@
+Id CommandLine                                                                                                              
+  -- -----------                                                                                                              
+  1 Set-ExecutionPolicy RemoteSigned
+  2 git clone https://github.com/Edyfiva/AngeloTrab.git
+  3 git flow init
+  4 git flow feature start divisao
+  5 git add .
+  6 gitmoji -c
+  7 git push origin feature/divisao
+  8 git branch
+  9 history 
+  10 git checkout master
+  11 git pull
+  12 history > LOG_suelen
+  13 git add .
+  14 gitmoji -c
+  15 git push origin master
+  
