@@ -12,7 +12,7 @@ Id CommandLine
   10 git checkout master
   11 git pull
   12 history > LOG_suelen
-  13 gitmoji -c
-  14 git add .
+  13 git add .
+  14 gitmoji -c
   15 git push origin master
   
